@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE83F50E3Ef448413B460442173c844C581e84480",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe83f50e3ef448413b460442173c844c581e84480",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Apes on Fire",
+  "SYMBOL": "PAF",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixel-apes-on-fire",
+  "SHOW_BACKGROUND": true
+}
